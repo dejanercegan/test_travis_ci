@@ -7,7 +7,7 @@ def square_num(innum):
     :param innum:
     :return:
     """
-    return innum * innum - 89
+    return innum * innum
 
 
 def arguments_parsing():
